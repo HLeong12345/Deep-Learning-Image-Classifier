@@ -7,7 +7,7 @@ How to predict an image? Besides, which CNN model would be the best to solve thi
 
 ## About
 
-This is a Mini Self-Project which focuses on images from [Kaggle by Puneet Bansal](https://www.kaggle.com/datasets/manishkc06/mobile-price-prediction](https://www.kaggle.com/datasets/puneet6060/intel-image-classification). For detailed walkthrough, please view IntelImageClassifier_Accuracy_0.79.ipynb.
+This is a Mini Self-Project which focuses on images from [Kaggle by Puneet Bansal](https://www.kaggle.com/datasets/puneet6060/intel-image-classification). For detailed walkthrough, please view IntelImageClassifier_Accuracy_0.79.ipynb.
 
 
 ### Datasets Folder
